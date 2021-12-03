@@ -1,0 +1,65 @@
+.container
+{
+width:auto;
+height:auto;
+margin:auto;
+overflow:hidden;	
+}
+.header
+{
+height:170px;
+background-color:skyblue;	
+}
+.navbar
+{
+height:60px;
+background-color:f1f1f1;
+}
+.navbar a
+{
+display: inline-block;
+padding:15px ;
+float: right;
+font-size: 23px;
+text-decoration: none;
+}
+.navbar a:hover
+{
+	color: blue;
+}
+.Main Context
+{
+height:800px;
+
+}
+.Main 
+{
+width:610px;
+height:400px;
+float:right;
+background-color: lightgreen;
+
+}
+.Main a
+{
+overflow: auto;
+}
+.Sidebar
+{
+width:630px;
+height:400px;
+float:left;
+background-color: lightpink;
+}
+.sidebar a
+{
+padding:50px  60px;
+text-decoration: none;
+font-size: 35px;
+color:white;
+display: block;
+}
+.sidebar a:hover
+{
+	color:grey;
+}
